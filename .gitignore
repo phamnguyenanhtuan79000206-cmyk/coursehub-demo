@@ -1,5 +1,8 @@
 .env
+.env.local
 .venv/
 __pycache__/
 .postman/
 postman/*/
+node_modules/
+dist/
